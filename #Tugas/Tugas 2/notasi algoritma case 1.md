@@ -1,7 +1,5 @@
 || NOTASI ALGORITMA NARATIF DESKRIPSI ||
 
-
-
 PROGRAM HITUNG NILAI RATA-RATA
 
 1. Memulai Program
@@ -19,13 +17,9 @@ PROGRAM HITUNG NILAI RATA-RATA
 
 || NOTASI ALGORITMA FLOWCHART ||
 
-
-
-![]#Tugas/IMG/Flowchart Menghitung Nilai Rata-rata.png
+![](https://github.com/LordZerav/APSD/blob/main/%23Tugas/IMG/Flowchart%20Menghitung%20Nilai%20Rata-rata.png)
 
 || NOTASI ALGORITMA PSEUDO CODE ||
-
-
 
 PROGRAM HITUNG NILAI RATA-RATA
 
