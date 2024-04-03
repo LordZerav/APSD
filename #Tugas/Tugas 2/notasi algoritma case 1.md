@@ -2,42 +2,42 @@
 
 PROGRAM HITUNG NILAI RATA-RATA
 
-Memulai Program
-Menampilkan Judul " PROGRAM HITUNG NILAI RATA-RATA "
-Memasukkan NIM Siswa    :
-Memasukkan Nama Siswa   :
-Memasukkan Nilai Tugas I    :
-Memasukkan Nilai Tugas II   :
-Memasukkan Nilai Tugas III  :
-Mencari Nilai Rata-rata dari Nilai Tugas :
-Menampilkan " Nim (NIM Siswa) Siswa yang bernama (Nama Siswa) Memperoleh nilai rata-rata (Nilai Rata-rata) dari hasil tugas yang diikutinya. "
-Mengakhiri Program.
+1. Memulai Program
+2. Menampilkan Judul " PROGRAM HITUNG NILAI RATA-RATA "
+3. Memasukkan NIM Siswa    :
+4. Memasukkan Nama Siswa   :
+5. Memasukkan Nilai Tugas I    :
+6. Memasukkan Nilai Tugas II   :
+7. Memasukkan Nilai Tugas III  :
+8. Mencari Nilai Rata-rata dari Nilai Tugas :
+9. Menampilkan " Nim (NIM Siswa) Siswa yang bernama (Nama Siswa) Memperoleh nilai rata-rata (Nilai Rata-rata) dari hasil tugas yang diikutinya. "
+10. Mengakhiri Program.
 
 || NOTASI ALGORITMA FLOWCHART ||
 
-![IMG/Flowchart Menghitung Nilai Rata-rata.png]
+![]#Tugas/IMG/Flowchart Menghitung Nilai Rata-rata.png
 
 || NOTASI ALGORITMA PSEUDO CODE ||
 
 PROGRAM HITUNG NILAI RATA-RATA
 
-Memulai Program
+1. Memulai Program
 
-Deklarasi
-    int     : nim siswa
-    string  : nama siswa
-    float   : nilai tugas I, nilai tugas II, nilai tugas II, nilai tugas III, nilai rata-rata
-Input
-    nim siswa
-    nama siswa
-    nilai tugas I
-    nilai tugas II
-    nilai tugas II
-Perhitungan
-    nilai rata-rata = (nilai tugas I + nilai tugas II + nilai tugas III) / 3
-Output/Hasil
-    nim
-    nama siswa
-    nilai rata-rata
+2. Deklarasi
+        int     : nim siswa
+        string  : nama siswa
+        float   : nilai tugas I, nilai tugas II, nilai tugas II, nilai tugas III, nilai rata-rata
+3. Input
+        nim siswa
+        nama siswa
+        nilai tugas I
+        nilai tugas II
+        nilai tugas II
+4. Perhitungan
+        nilai rata-rata = (nilai tugas I + nilai tugas II + nilai tugas III) / 3
+5. Output/Hasil
+        nim
+        nama siswa
+        nilai rata-rata
 
-Mengakhiri Program
+6. Mengakhiri Program
