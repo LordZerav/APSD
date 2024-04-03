@@ -14,8 +14,9 @@ PROGRAM HITUNG NILAI RATA-RATA
 10. Mengakhiri Program.
 
 
-
 || NOTASI ALGORITMA FLOWCHART ||
+
+PROGRAM HITUNG NILAI RATA-RATA
 
 ![](https://github.com/LordZerav/APSD/blob/main/%23Tugas/IMG/Flowchart%20Menghitung%20Nilai%20Rata-rata.png)
 
