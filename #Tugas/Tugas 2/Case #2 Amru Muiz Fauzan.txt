@@ -1,0 +1,42 @@
+1. Buat Notasi Algoritma Naratif Deskriptif.
+2. Buat Notasi Algoritma Dengan Flowcart.
+3. Buat Notasi Algoritma Pseudo Code.
+
+# Case 2
+
+Notasi Algoritma Deskriptif
+
+> Membuat sebuah program menghitung nilai akhir seorang siswa dari kursus yang diikuti.
+
+Diketahui : Data seorang siswa yang mengikuti kursus; Nama Siswa, Nilai Keaktifan, Nilai Tugas, dan Nilai Ujian. Untuk mendapatkan nilai murni dari masing-masing nilai harus melalui prosesnya juga. Nilai Murni Keaktifan bisa didapatkan dari Nilai Keaktifan * 20%, Nilai Murni Tugas bisa didapatkan dari Nilai Tugas * 50%, dan Nilai Murni Ujian bisa didapatkan dari Nilai Ujian * 30%.
+Ditanyakan : Nilai Akhir Siswa tersebut?
+Langkah Penyelesaian :
+1. Siapkan data siswa yang mengikuti kursus tersebut seperti Nama Siswa, Nilai Keaktifan, Nilai Tugas, dan Nilai Ujian;
+2. Masukkan data Nama Siswa dalam program tersebut;
+3. Lengkapi data Nilai Keaktifan, Nilai Tugas, dan Nilai Ujian dalam program tersebut. Nantinya nilai tersebut digunakan untuk menentukan Nilai Murni dari masing-masing nilai;
+4. Masukkan data Nilai Keaktifan untuk dikalikan dengan 20%, hasil yang diperoleh untuk menentukan Nilai Murni Keaktifan;
+5. Masukkan data Nilai Tugas untuk dikalikan dengan 50%, hasil yang diperoleh untuk menentukan Nilai Murni Tugas;
+6. Masukkan data Nilai Ujian untuk dikalikan dengan 30%, hasil yang diperoleh untuk menentukan Nilai Murni Ujian;
+7. Setelah semua Nilai Murni diperoleh, selanjutnya bisa diperoleh Nilai Akhir;
+8. Untuk memperoleh Nilai Akhir bisa dengan menjumlahkan ketiga Nilai Murni;
+9. Program Selesai.
+
+Notasi Algoritma Pseudocode
+
+> > Membuat sebuah program menghitung nilai akhir seorang siswa dari kursus yang diikuti.
+
+nama siswa : string
+nilai keaktifan, nilai tugas, nilai ujian : integer
+nilai murni keaktifan, nilai murni tugas, nilai murni ujian : integer
+nilai akhir : integer
+
+read(nama siswa, nilai keaktifan, nilai tugas, nilai ujian, nilai murni keaktifan, nilai murni tugas, nilai murni ujian, nilai akhir)
+nilai murni keaktifan = nilai keaktifan * 20%
+nilai murni tugas = nilai tugas * 50%
+nilai murni ujian = nilai ujian * 30%
+nilai akhir = nilai murni keaktifan + nilai murni tugas + nilai murni ujian
+write(nama siswa, nilai murni keaktifan, nilai murni tugas, nilai murni ujian, nilai akhir)
+end
+
+
+
