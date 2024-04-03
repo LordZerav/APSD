@@ -1,3 +1,7 @@
+|| NOTASI ALGORITMA NARATIF DESKRIPSI ||
+
+PROGRAM HITUNG NILAI RATA-RATA
+
 Memulai Program
 Menampilkan Judul " PROGRAM HITUNG NILAI RATA-RATA "
 Memasukkan NIM Siswa    :
@@ -9,8 +13,13 @@ Mencari Nilai Rata-rata dari Nilai Tugas :
 Menampilkan " Nim (NIM Siswa) Siswa yang bernama (Nama Siswa) Memperoleh nilai rata-rata (Nilai Rata-rata) dari hasil tugas yang diikutinya. "
 Mengakhiri Program.
 
+|| NOTASI ALGORITMA FLOWCHART ||
 
-PROGRAM HITUNG NILAI RATA_RATA
+![IMG/Flowchart Menghitung Nilai Rata-rata.png]
+
+|| NOTASI ALGORITMA PSEUDO CODE ||
+
+PROGRAM HITUNG NILAI RATA-RATA
 
 Memulai Program
 
