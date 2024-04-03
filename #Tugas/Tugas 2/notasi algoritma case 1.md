@@ -15,7 +15,7 @@ PROGRAM HITUNG NILAI RATA-RATA
 
 || NOTASI ALGORITMA FLOWCHART ||
 
-![]#Tugas/IMG/Flowchart Menghitung Nilai Rata-rata.png
+![#Tugas/IMG/Flowchart Menghitung Nilai Rata-rata.png]
 
 || NOTASI ALGORITMA PSEUDO CODE ||
 
